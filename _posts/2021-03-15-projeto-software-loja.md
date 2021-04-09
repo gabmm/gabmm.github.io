@@ -10,16 +10,16 @@ permalink: "projloja"
 Como projeto da disciplina Orientação a Objetos, do terceiro período, foi construído um software em Java
 capaz de administrar uma loja de informática. O Software cadastra tanto clientes e funcionários quanto produtos de informática (Motherboards, CPUs, HDDs, etc.), além de realizar vendas e fazer cálculos relacionados ao fluxo de caixa da empresa.
 <br>
-O link do projeto no GitHub, público, pode ser encontrado aqui. Abaixo seguem imagens da interface do programa:
+O link do projeto no GitHub, público, pode ser encontrado <a href="https://github.com/gabmm/trabalhoOOGalpoes">aqui</a>. Abaixo seguem imagens da interface do programa:
 <br>
 <br>
 
-![caixa](/assets/telaCaixa.png)
+<div style="text-align: center"><img src="/assets/telaCaixa.png" width="400" /></div>
 
 <br>
 
-![venda](/assets/telaProduto.png)
+<div style="text-align: center"><img src="/assets/telaProduto.png" width="700" /></div>
 
 <br>
 
-![produto](/assets/telaVenda.png)
+<div style="text-align: center"><img src="/assets/telaVenda.png" width="700" /></div>
